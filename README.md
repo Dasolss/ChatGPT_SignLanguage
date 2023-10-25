@@ -33,9 +33,9 @@
 ### 메인페이지
 |                               |                               |                    
 |-------------------------------|-------------------------------|
-|![main page](https://github.com/jisoo29/ChatGPT_SignLanguage/assets/120074030/9db77eb1-3d39-43ef-820f-c53f6bcc8e44) |![1](https://github.com/jisoo29/ChatGPT_SignLanguage/assets/120074030/9c2cafb1-4895-41b7-bd3c-257e35202bd8)|
+|![main page](https://user-images.githubusercontent.com/106011096/278034387-1a2c7085-e4b2-47ff-ad43-68968b46b221.jpg) |![1](https://user-images.githubusercontent.com/106011096/278034507-1edf3f16-ebe4-45cc-bb7e-062feda7555b.jpg)|
 
 
 |ChatGPT                        |Signlanguage to Chatgpt    |                    
 |-------------------------------|-------------------------------|
-|![chatgptpage](https://github.com/jisoo29/ChatGPT_SignLanguage/assets/120074030/b7798ae2-f2f1-4ca2-b06a-d937caece636) |![chat sign](https://github.com/jisoo29/ChatGPT_SignLanguage/assets/120074030/434dc10b-dacc-428c-862d-93b4e9c8dd90)|   
+|![chatgptpage](https://user-images.githubusercontent.com/106011096/278034772-7c74d367-869f-45de-b496-c85c6d79c17a.jpg) |![chat sign](https://user-images.githubusercontent.com/106011096/278034925-5845b716-e650-41b6-92a6-82293b224392.jpg)|   
